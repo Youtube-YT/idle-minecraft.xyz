@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.thegenerator.ml	TRUE	/	FALSE	1999999999	__cfduid	d93f04030d06e9919e84e935772c6e5d81609312361
+thegenerator.ml	TRUE	/	FALSE	1999999999	SameSite	Lax
+
